@@ -14,8 +14,8 @@
   --bg-gradient: linear-gradient(135deg, #8792a6 0%, #002057 100%);
   --card-bg: rgba(255, 255, 255, 0.03);
   --border-light: rgba(255, 255, 255, 0.1);
-  --font-main: "Inter", sans-serif;
-  --font-heading: "Outfit", sans-serif;
+  --font-main: "Inter", tahoma;
+  --font-heading: "Outfit", aptos-display;
   --section-pad: 10rem 10%;
   --box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
   --transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);

@@ -14,7 +14,7 @@
 }
 
 /* Dark Mode Support (Basic) */
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
     :root {
         --primary-color: #3b82f6;
         --primary-dark: #60a5fa;
