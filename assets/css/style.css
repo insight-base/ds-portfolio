@@ -1,9 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Outfit:wght@700;800&display=swap");
 
 :root {
-  --primary-color: #001233;
+  --primary-color: #085878;
   --secondary-color: #001b4d;
-  --accent-color: #fe8819;
+  --accent-color: #c8e2e6;
   /* Back to Orange */
   --highlight-color: #7303a7;
   /* Purple for Headings */
@@ -11,7 +11,7 @@
   /* Deep Blood Red */
   --text-main: #f8fafc;
   --text-muted: #cbd5e1;
-  --bg-gradient: linear-gradient(135deg, #001233 0%, #002057 100%);
+  --bg-gradient: linear-gradient(135deg, #8792a6 0%, #002057 100%);
   --card-bg: rgba(255, 255, 255, 0.03);
   --border-light: rgba(255, 255, 255, 0.1);
   --font-main: "Inter", sans-serif;
@@ -50,7 +50,7 @@ section {
 }
 
 *::selection {
-  background: #2b3dda;
+  background: #c3ecf3;
   color: #fff;
 }
 
