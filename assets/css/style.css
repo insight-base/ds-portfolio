@@ -3,19 +3,19 @@
 :root {
   --primary-color: #0d1f20ff;
   --secondary-color: #002424ff;
-  --accent-color: #56928fff;
+  --accent-color: #518386ff;
   /* Back to Orange */
   --highlight-color: #e0ae0aff;
   /* Purple for Headings */
   --role-red: #9b0000;
   /* Deep Blood Red */
   --text-main: #f8fafc;
-  --text-muted: #cbd5e1;
-  --bg-gradient: linear-gradient(135deg, #87a6a1ff 0%, #005657ff 100%);
+  --text-muted: #cbe1e0ff;
+  --bg-gradient: linear-gradient(135deg, #87a6a1ff 0%, #013536ff 100%);
   --card-bg: rgba(255, 255, 255, 0.03);
   --border-light: rgba(255, 255, 255, 0.1);
   --font-main: "Inter", verdana;
-  --font-heading: "Outfit", aptos-display;
+  --font-heading: "Outfit", verdana;
   --section-pad: 10rem 10%;
   --box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
   --transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
@@ -50,7 +50,7 @@ section {
 }
 
 *::selection {
-  background: #c3f3edff;
+  background: #c3f1f3ff;
   color: #fff;
 }
 
