@@ -1,6 +1,6 @@
 :root {
-    --primary-color: #2563eb;
-    --primary-dark: #1d4ed8;
+    --primary-color: #041a13ff#;
+    --primary-dark: #0a2d28ff;
     --secondary-color: #64748b;
     --background-color: #ffffff;
     --surface-color: #f8fafc;
@@ -16,8 +16,8 @@
 /* Dark Mode Support (Basic) */
 @media (prefers-color-scheme: light) {
     :root {
-        --primary-color: #3b82f6;
-        --primary-dark: #60a5fa;
+        --primary-color: #041a13ff;
+        --primary-dark: #0a2d28ff;
         --secondary-color: #94a3b8;
         --background-color: #0f172a;
         --surface-color: #1e293b;
