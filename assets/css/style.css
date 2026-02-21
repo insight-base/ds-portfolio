@@ -3,7 +3,7 @@
 :root {
   --primary-color: #0d1f20ff;
   --secondary-color: #002424ff;
-  --accent-color: #568e92ff;
+  --accent-color: #56928fff;
   /* Back to Orange */
   --highlight-color: #e0ae0aff;
   /* Purple for Headings */
@@ -11,10 +11,10 @@
   /* Deep Blood Red */
   --text-main: #f8fafc;
   --text-muted: #cbd5e1;
-  --bg-gradient: linear-gradient(135deg, #8792a6 0%, #004457ff 100%);
+  --bg-gradient: linear-gradient(135deg, #87a6a1ff 0%, #005657ff 100%);
   --card-bg: rgba(255, 255, 255, 0.03);
   --border-light: rgba(255, 255, 255, 0.1);
-  --font-main: "Inter", tahoma;
+  --font-main: "Inter", verdana;
   --font-heading: "Outfit", aptos-display;
   --section-pad: 10rem 10%;
   --box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
