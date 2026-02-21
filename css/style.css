@@ -3,11 +3,11 @@
     --primary-dark: #0a2d28ff;
     --secondary-color: #64888bff;
     --background-color: #ffffff;
-    --surface-color: #f8fafc;
-    --text-color: #0f172a;
-    --text-light: #476769ff;
-    --border-color: #e2e8f0;
-    --font-sans: 'Inter', sans-serif;
+    --surface-color: #78948eff;
+    --text-color: #040e0dff;
+    --text-light: #708c8eff;
+    --border-color: #142b2dff;
+    --font-sans: 'Inter', verdana;
     --max-width: 1200px;
     --nav-height: 80px;
     --transition: all 0.3s ease;

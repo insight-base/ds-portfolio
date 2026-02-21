@@ -1,17 +1,17 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Outfit:wght@700;800&display=swap");
 
 :root {
-  --primary-color: #085878;
-  --secondary-color: #001b4d;
-  --accent-color: #c8e2e6;
+  --primary-color: #0d1f20ff;
+  --secondary-color: #002424ff;
+  --accent-color: #568e92ff;
   /* Back to Orange */
-  --highlight-color: #7303a7;
+  --highlight-color: #e0ae0aff;
   /* Purple for Headings */
   --role-red: #9b0000;
   /* Deep Blood Red */
   --text-main: #f8fafc;
   --text-muted: #cbd5e1;
-  --bg-gradient: linear-gradient(135deg, #8792a6 0%, #002057 100%);
+  --bg-gradient: linear-gradient(135deg, #8792a6 0%, #004457ff 100%);
   --card-bg: rgba(255, 255, 255, 0.03);
   --border-light: rgba(255, 255, 255, 0.1);
   --font-main: "Inter", tahoma;
@@ -162,7 +162,7 @@ header .navbar ul li a:hover {
 #menu {
   font-size: 3rem;
   cursor: pointer;
-  color: rgb(24, 2, 63);
+  color: rgba(2, 59, 63, 1);
   display: none;
 }
 
@@ -208,7 +208,7 @@ header .navbar ul li a:hover {
     padding: 1rem;
     color: #fff;
     border-radius: 0.5rem;
-    border-bottom: 0.5rem solid #011aff;
+    border-bottom: 0.5rem solid #01353eff;
   }
 
   .fa-times {
@@ -263,7 +263,7 @@ header .navbar ul li a:hover {
   aspect-ratio: 1 / 1;
   object-fit: cover;
   border: 4px solid var(--border-light);
-  box-shadow: 0 0 50px rgba(254, 136, 25, 0.15);
+  box-shadow: 0 0 50px rgba(197, 142, 2, 0.15);
   filter: brightness(1.1);
 }
 
